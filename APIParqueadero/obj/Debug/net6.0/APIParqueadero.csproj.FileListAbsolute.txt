@@ -1,0 +1,91 @@
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\bin\Debug\net6.0\appsettings.json
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\bin\Debug\net6.0\APIParqueadero.exe
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\bin\Debug\net6.0\APIParqueadero.deps.json
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\bin\Debug\net6.0\APIParqueadero.runtimeconfig.json
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\bin\Debug\net6.0\APIParqueadero.dll
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\bin\Debug\net6.0\APIParqueadero.pdb
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\APIParqueadero.csproj.AssemblyReference.cache
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\APIParqueadero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\APIParqueadero.AssemblyInfoInputs.cache
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\APIParqueadero.AssemblyInfo.cs
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\APIParqueadero.csproj.CoreCompileInputs.cache
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\APIParqueadero.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\APIParqueadero.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\staticwebassets\msbuild.APIParqueadero.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\staticwebassets\msbuild.build.APIParqueadero.props
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIParqueadero.props
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIParqueadero.props
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\scopedcss\bundle\APIParqueadero.styles.css
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\APIParqueadero.csproj.CopyComplete
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\APIParqueadero.dll
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\refint\APIParqueadero.dll
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\APIParqueadero.pdb
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\APIParqueadero.genruntimeconfig.cache
+C:\Users\johan.salazar\Documents\Visual Studio 2022\Projects\APIParqueadero\obj\Debug\net6.0\ref\APIParqueadero.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\appsettings.Development.json
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\appsettings.json
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\APIParqueadero.exe
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\APIParqueadero.deps.json
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\APIParqueadero.runtimeconfig.json
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\APIParqueadero.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\APIParqueadero.pdb
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Humanizer.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\jose-jwt.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\System.CodeDom.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\System.Text.Json.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\APIParqueadero.csproj.AssemblyReference.cache
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\APIParqueadero.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\APIParqueadero.AssemblyInfoInputs.cache
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\APIParqueadero.AssemblyInfo.cs
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\APIParqueadero.csproj.CoreCompileInputs.cache
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\APIParqueadero.MvcApplicationPartsAssemblyInfo.cs
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\APIParqueadero.MvcApplicationPartsAssemblyInfo.cache
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\staticwebassets\msbuild.APIParqueadero.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\staticwebassets\msbuild.build.APIParqueadero.props
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIParqueadero.props
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIParqueadero.props
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\staticwebassets.build.json
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\staticwebassets.development.json
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\scopedcss\bundle\APIParqueadero.styles.css
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\APIParqueadero.csproj.CopyComplete
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\APIParqueadero.dll
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\refint\APIParqueadero.dll
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\APIParqueadero.pdb
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\APIParqueadero.genruntimeconfig.cache
+E:\Proyectos\APIParqueadero\obj\Debug\net6.0\ref\APIParqueadero.dll
+E:\Proyectos\APIParqueadero\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
