@@ -1,0 +1,29 @@
+
+<!-- register-entry.component.html -->
+<div class="row justify-content-center">
+  <p class="justify-content-center bg-primary.bg-gradient row">Registrar Vehiculo</p>
+  <div class="col-md-6">
+    <form (ngSubmit)="registerEntry()">
+      <!-- Campos del formulario para la entrada (nombre, fecha, etc.) -->
+      <div class="mb-3 row">
+        <label for="Type" class="form-label">Tipo Vehiculo:</label>
+        <select name="Type" id="Type" class="form-control">
+          <option value="Carro">Carro</option>
+          <option value="Moto">Moto</option>
+          <option value="Bicicleta">Bicicleta</option>
+        </select>
+      </div>
+      <div class="mb-3 row">
+        <label for="PlateNumber" class="form-label">Placa Vehiculo:</label>
+        <input class="form-control" type="text" id="PlateNumber" name="PlateNumber" required>
+      </div>
+      <div class="mb-3 row">
+        <label for="entryDate" class="form-label">Fecha de la Entrada:</label>
+        <input class="form-control" type="date" id="entryDate" name="entryDate" required>
+      </div>
+      <div class="mb-3 row">
+        <button class="btn btn-sm btn-success" type="submit">Registrar Entrada</button>
+      </div>
+    </form>
+  </div>
+</div>
